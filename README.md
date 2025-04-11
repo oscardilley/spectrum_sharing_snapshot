@@ -21,7 +21,7 @@
 
 This repo offers a simulator for research into dynamic spectrum access (DSA) and spectrum sharing. Using Sionna for ray-tracing, deterministic wireless conditions are generated. The configurable Sionna simualation is encapsulated as an OpenAI gym environment, enabling a consistent interface for developing and training machine learning models for power control and dynamic spectrum access.
 
-![Repo concept](https://github.com/user-attachments/assets/d2310f48-8223-4735-8128-dc898fb5dce7)
+![426177220-d2310f48-8223-4735-8128-dc898fb5dce7](https://github.com/user-attachments/assets/d061b7ec-acd6-4bd4-9f62-affd6c2df363)
 
 ![Picture1](https://github.com/user-attachments/assets/14a65639-7c15-4721-9723-cee642e50f18)
 
@@ -80,31 +80,30 @@ The above block runs _main.py_ which triggers the training routine that takes th
 
 Primary maps:
 
-
-<img src="https://github.com/user-attachments/assets/16f78537-65d9-4997-a487-6979b00e22a1" width="400">
-<img src="https://github.com/user-attachments/assets/fd28e97d-68f9-4bf2-ac6b-6bab3465ce31" width="400">
+<img src="https://github.com/user-attachments/assets/0ae82f79-1b38-47e7-995e-302596e9c88a" width="400">
+<img src="https://github.com/user-attachments/assets/77df65f9-80e3-430e-8b9a-6922894fc7d4" width="400">
 
 
 Sharing maps:
 
-
-<img src="https://github.com/user-attachments/assets/40cc38df-09ca-432c-95fa-22f35f6b951a" width="400">
-<img src="https://github.com/user-attachments/assets/88a8f14b-431d-4aa1-927f-39fd2d7cbfe3" width="400">
+<img src="https://github.com/user-attachments/assets/95ea183e-23d3-4a30-9352-69dc71746ac6" width="400">
+<img src="https://github.com/user-attachments/assets/228a7946-04d0-405f-ad56-9b49edeebb9d" width="400">
 
 ### User Performance 
-<img src="https://github.com/user-attachments/assets/695db8f2-2bf5-4ed7-ad30-9df79b0887bd">
+<img src="https://github.com/user-attachments/assets/d523db34-eaa3-4ff5-a024-1599feb42cb3">
 
 ### Reward Tracking Across Episodes
-<img src="https://github.com/user-attachments/assets/de6f7892-382f-492e-8065-de99da1c3949">
+<img src="https://github.com/user-attachments/assets/d5e4d050-9261-4ea6-a792-d60a16837313">
 
 ### Scheduling Insights
-![Scheduler_TX_1_Time_6](https://github.com/user-attachments/assets/33b3042e-1bfc-47cb-8350-6c3b36d2fcd1)
+![429109309-33b3042e-1bfc-47cb-8350-6c3b36d2fcd1](https://github.com/user-attachments/assets/20c9ca23-7d09-4358-b4fa-cef7439c9ac9)
 
 ## Known Limitations
 
 ## Repo Structure
 
-![repo structure](https://github.com/user-attachments/assets/30b186e2-be65-478c-8b2e-af67808b4118)
+![426177309-30b186e2-be65-478c-8b2e-af67808b4118](https://github.com/user-attachments/assets/dbfc267f-300b-4f9b-90e8-88fc50e38210)
+
 
 ```bash
 ├── LICENSE
