@@ -23,7 +23,7 @@ This repo offers a simulator for research into dynamic spectrum access (DSA) and
 
 ![Repo concept](https://github.com/user-attachments/assets/d2310f48-8223-4735-8128-dc898fb5dce7)
 
-![Picture1](https://github.com/user-attachments/assets/ae1df354-b8e3-4235-b666-9089b7b6c7d8)
+![Picture1](https://github.com/user-attachments/assets/14a65639-7c15-4721-9723-cee642e50f18)
 
 ## Features
 
