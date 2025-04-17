@@ -92,11 +92,15 @@ Sharing maps:
 ### User Performance 
 <img src="https://github.com/user-attachments/assets/d523db34-eaa3-4ff5-a024-1599feb42cb3">
 
-### Reward Tracking Across Episodes
-<img src="https://github.com/user-attachments/assets/d5e4d050-9261-4ea6-a792-d60a16837313">
+### Reward Tracking Across and within Episodes
+
+![Rewards_Tracker copy](https://github.com/user-attachments/assets/f9a64d40-fcbb-4c6a-8133-38153d2572bd)
+
+![Rewards_Ep8](https://github.com/user-attachments/assets/5c5deb42-1d4d-4007-b4f1-c52633d5c826)
 
 ### Scheduling Insights
-![429109309-33b3042e-1bfc-47cb-8350-6c3b36d2fcd1](https://github.com/user-attachments/assets/20c9ca23-7d09-4358-b4fa-cef7439c9ac9)
+
+![Scheduler_TX_tx1_Time_1](https://github.com/user-attachments/assets/b2d4b5ad-0d31-4e5e-a4ec-be745700a491)
 
 ## Known Limitations
 
